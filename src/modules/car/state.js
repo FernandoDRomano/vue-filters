@@ -305,7 +305,7 @@ export default {
         status: 'all',
         model: '',
         min_price: 0,
-        max_price: 1000000,
+        max_price: 20000,
         from_date: 1950,
         to_date: 2021
     }
