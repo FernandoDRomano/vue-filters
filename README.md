@@ -1,4 +1,7 @@
-# vuex-filtros-avanzados-getters
+# Example filters with vue
+
+This example uses vue, vuex, vue-paginate, vue-datepicker and tailwind.
+
 
 ## Project setup
 ```
@@ -15,5 +18,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo
+[Click Here](https://filters-with-vue.netlify.app/).
